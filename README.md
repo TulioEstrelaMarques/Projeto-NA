@@ -1,2 +1,3 @@
-# Projeto final ´POO
- Projeto Final da disciplina de POO
+# Projeo de POO
+ Projeto da disciplina de POO
+Autores: Euller, Isaque e Túlio
